@@ -24,25 +24,19 @@ I carefully analyzed the raw dataset and realized that before i can determine th
 ---
 The Key Features of the Project are listed below
   1. Total Sales By Product
+https://github.com/Sequence007/LITA-CAPSTONE-PROJECT-1/blob/main/total%20sales%20by%20product.png
 
-<img width="224" alt="total sales by product" src="https://github.com/user-attachments/assets/c53150ba-8928-4163-9acb-641e9e920bc2">
-
-<img width="410" alt="sum total sales by product" src="https://github.com/user-attachments/assets/a01bfa90-c581-4810-918a-0d0e7661196e">
+https://github.com/Sequence007/LITA-CAPSTONE-PROJECT-1/blob/main/sum%20total%20sales%20by%20product.png
   
   2. Total Sales By Region
+https://github.com/Sequence007/LITA-CAPSTONE-PROJECT-1/blob/main/total%20sales%20by%20region.png
 
-<img width="215" alt="total sales by region" src="https://github.com/user-attachments/assets/c99a4482-7ec0-4ac2-97bc-f18e6d4584e3">
-
-<img width="389" alt="sum total sales by region" src="https://github.com/user-attachments/assets/75a197d2-a311-4a24-bca4-ea39994feefc">
+https://github.com/Sequence007/LITA-CAPSTONE-PROJECT-1/blob/main/sum%20total%20sales%20by%20region.png
 
   3. Total Sales By Month
+https://github.com/Sequence007/LITA-CAPSTONE-PROJECT-1/blob/main/total%20sales%20by%20month.png
 
-<img width="192" alt="total sales by month" src="https://github.com/user-attachments/assets/0dcd0d89-e832-41ff-bb3c-08e6380eada0">
-
-
-<img width="405" alt="sum total sales by month" src="https://github.com/user-attachments/assets/55612b36-7d67-4ff6-96ca-dd1cf4781da8">
-
-
+https://github.com/Sequence007/LITA-CAPSTONE-PROJECT-1/blob/main/sum%20total%20sales%20by%20month.png
 
 ### SQL Features of the project
 ---
@@ -64,6 +58,6 @@ Where condition = True
 ### Power BI Features of the Project
 ---
 I represented all the data worked on Excel and Sql in Power Bi and the result are a follows:
-![Sales Data](https://github.com/user-attachments/assets/6449f9a7-d18f-49cd-920f-ba1b881ae31f)
+https://github.com/Sequence007/LITA-CAPSTONE-PROJECT-1/blob/main/Sales%20Data.jpg
 
 
