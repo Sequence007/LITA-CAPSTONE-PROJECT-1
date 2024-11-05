@@ -40,6 +40,8 @@ https://github.com/Sequence007/LITA-CAPSTONE-PROJECT-1/blob/main/sum%20total%20s
 
 ### SQL Features of the project
 ---
+
+https://github.com/Sequence007/LITA-CAPSTONE-PROJECT-1/blob/main/LITA%20Capstone%20Project%201.sql
 Key Insights were extracted using SQL, the insights are as follows
 
     1. I Retrieved the total sales for each product category.
